@@ -3,4 +3,5 @@
 This widget is written in C++ using the Qt framework
 
 ![Logo](assets/widget.png)
+## Big macos widget photo
 ![Logo](assets/widget2.png)
